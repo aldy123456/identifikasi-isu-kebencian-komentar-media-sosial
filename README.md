@@ -11,14 +11,13 @@ Metodologi:
   3. Ekstraksi fitur menggunakan metode TF-IDF untuk merepresentasikan teks dalam bentuk numerik.
   4. Melatih model LightGBM, yang dikenal efisien dalam menangani dataset dengan jumlah fitur yang besar.
   5. Evaluasi model menggunakan metrik akurasi, dengan hasil mencapai 88%.
+  6. 
 Tujuan Proyek:
-✅ Membangun sistem klasifikasi otomatis untuk mendeteksi ujaran kebencian di media sosial.
-✅ Mengurangi penyebaran komentar negatif dengan memberikan insight kepada moderator platform.
-✅ Menggunakan teknik machine learning untuk meningkatkan akurasi deteksi dibandingkan metode rule-based.
+  ✅ Membangun sistem klasifikasi otomatis untuk mendeteksi ujaran kebencian di media sosial.
+  ✅ Mengurangi penyebaran komentar negatif dengan memberikan insight kepada moderator platform.
+  ✅ Menggunakan teknik machine learning untuk meningkatkan akurasi deteksi dibandingkan metode rule-based.
 
 Manfaat Proyek:
-🔹 Membantu platform media sosial dalam menyaring komentar yang berpotensi merugikan pengguna.
-🔹 Mendukung penelitian dalam bidang NLP dan machine learning terkait deteksi ujaran kebencian.
-🔹 Dapat dikembangkan lebih lanjut dengan model yang lebih kompleks seperti transformer-based models (BERT, RoBERTa, dll.) untuk meningkatkan performa klasifikasi.
-
-Kode sumber proyek ini dapat ditemukan di repositori GitHub berikut: [GitHub Repository Link] (tambahkan link repositori GitHub Anda). 🚀
+  🔹 Membantu platform media sosial dalam menyaring komentar yang berpotensi merugikan pengguna.
+  🔹 Mendukung penelitian dalam bidang NLP dan machine learning terkait deteksi ujaran kebencian.
+  🔹 Dapat dikembangkan lebih lanjut dengan model yang lebih kompleks seperti transformer-based models (BERT, RoBERTa, dll.) untuk meningkatkan performa klasifikasi.
