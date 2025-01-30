@@ -26,4 +26,4 @@ Manfaat Proyek:
   
   🔹 Mendukung penelitian dalam bidang NLP dan machine learning terkait deteksi ujaran kebencian.
   
-  🔹 Dapat dikembangkan lebih lanjut dengan model yang lebih kompleks seperti transformer-based models (BERT, RoBERTa, dll.) untuk meningkatkan performa klasifikasi.
+  🔹 Dapat dikembangkan lebih lanjut dengan model yang lebih kompleks untuk meningkatkan performa klasifikasi.
