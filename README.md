@@ -15,11 +15,15 @@ Metodologi:
 Tujuan Proyek:
 
   ✅ Membangun sistem klasifikasi otomatis untuk mendeteksi ujaran kebencian di media sosial.
+  
   ✅ Mengurangi penyebaran komentar negatif dengan memberikan insight kepada moderator platform.
+  
   ✅ Menggunakan teknik machine learning untuk meningkatkan akurasi deteksi dibandingkan metode rule-based.
 
 Manfaat Proyek:
 
   🔹 Membantu platform media sosial dalam menyaring komentar yang berpotensi merugikan pengguna.
+  
   🔹 Mendukung penelitian dalam bidang NLP dan machine learning terkait deteksi ujaran kebencian.
+  
   🔹 Dapat dikembangkan lebih lanjut dengan model yang lebih kompleks seperti transformer-based models (BERT, RoBERTa, dll.) untuk meningkatkan performa klasifikasi.
